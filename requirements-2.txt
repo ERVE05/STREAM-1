@@ -1,0 +1,13 @@
+altair
+pandas
+streamlit
+seaborn
+numpy
+plotly_express
+matplotlib.pyplot
+pickle-mixin
+scikit-learn
+plotly
+lightgbm
+
+
